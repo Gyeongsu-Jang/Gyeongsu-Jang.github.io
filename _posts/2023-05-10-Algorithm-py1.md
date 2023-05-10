@@ -1,8 +1,8 @@
 ---
 layout: single
 title: 백준-파이썬1
-categories: Algorithm-py
-tag: [python]
+categories: [알고리즘 - 파이썬]
+tag: [파이썬]
 #toc: true #목차기능
 author_profile: false #내 정보 글에서 안뜨게
 sidebar:
