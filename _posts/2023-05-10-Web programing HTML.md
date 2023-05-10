@@ -11,14 +11,33 @@ sidebar:
 #serach: false 이러면 검색에 안뜸
 ---
 
-
+ 
 ## 1. Introduction
 ### 1. HTML 소개 및 노트패드 사용법
 #### HTML이 무엇인가?
 HTML은 Hyper Text Markup Language의 약자로서 정확하게는 언어가 아니라 문서의 형식이다.(Web page를 작성하기 위한 형식)
 
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+
+<body>
+<h1>My First Heading</h1>
+<p>My first paragraph</p>
+
+</body>
+</html>
+```
+
+위 코드를 노트패드에 작성 후 index.html로 저장해보자. 그 후 각 꺽쇠가 머하는 놈인지 파악을 해보자~
+
 ## 2. Basic Elements
 ### 1. Basic Examples
+
+
 ### 2. HTML Attributes
 ### 3. Headings
 ### 4. Paragraphs
