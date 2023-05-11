@@ -47,9 +47,8 @@ HTML은 start tag와 content, end tag로 구성된다. 아래는 예시다.
 #### HTML 페이지 구조
 
 아래는 HTML 페이지 구조다.
-![dd](https://dashing-debt-6ec.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0eb4a1fd-a871-406c-b900-7fff552183bf%2FUntitled.png?id=66db1443-8b54-49fa-8d59-429bdc4a0c45&table=block&spaceId=3cb4a247-7eb0-47f8-8e61-48f48416472e&width=1120&userId=&cache=v2)
 
-![poster](.assets/images/123.png)
+![htmlstructure](/assets/images/123.png){: .align-center}{: width="100%", height="100%"}
 
 
 
