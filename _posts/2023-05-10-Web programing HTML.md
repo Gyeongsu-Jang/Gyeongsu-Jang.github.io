@@ -17,6 +17,8 @@ sidebar:
 #### HTML이 무엇인가?
 HTML은 Hyper Text Markup Language의 약자로서 정확하게는 언어가 아니라 문서의 형식이다.(Web page를 작성하기 위한 형식)
 
+#### 노트패드연습
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -27,12 +29,31 @@ HTML은 Hyper Text Markup Language의 약자로서 정확하게는 언어가 아
 <body>
 <h1>My First Heading</h1>
 <p>My first paragraph</p>
-
 </body>
 </html>
 ```
 
-위 코드를 노트패드에 작성 후 index.html로 저장해보자. 그 후 각 꺽쇠가 머하는 놈인지 파악을 해보자~
+<p>위 코드를 노트패드에 작성 후 index.html로 저장하면 html 문서 완성~</p>
+
+#### HTML 구성 요소
+
+HTML은 start tag와 content, end tag로 구성된다. 아래는 예시다.
+
+
+```HTML
+<tagname>Content goes here...</tagname>
+```
+
+#### HTML 페이지 구조
+
+아래는 HTML 페이지 구조다.
+![dd](https://dashing-debt-6ec.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0eb4a1fd-a871-406c-b900-7fff552183bf%2FUntitled.png?id=66db1443-8b54-49fa-8d59-429bdc4a0c45&table=block&spaceId=3cb4a247-7eb0-47f8-8e61-48f48416472e&width=1120&userId=&cache=v2)
+
+![poster](.assets/images/123.png)
+
+
+
+
 
 ## 2. Basic Elements
 ### 1. Basic Examples
